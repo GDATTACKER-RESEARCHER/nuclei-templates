@@ -3,7 +3,7 @@ id: dns-rebinding
 info:
   name: DNS Rebinding Attack
   author: ricardomaia
-  severity: high
+  severity: info
   description: |
     Detects DNS Rebinding attacks by checking if the DNS response contains a private IPv4 or IPv6 address.
   reference:
